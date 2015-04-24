@@ -59,5 +59,5 @@ recommend.get_recommend_segment(cv,jd,word2vec,tfidf_model,dictionary,stopword_l
 # snippet
 # snippet_new
 # snippet_new
-
+```
 Author: Wong Ching Kit
